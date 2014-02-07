@@ -3,6 +3,9 @@ html {
 
 font-family: 'Headland One', serif;}
 
+body {
+	background: url(../img/paper.png);
+}
 
 /* mene bar */
 			#menu {
