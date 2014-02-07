@@ -52,7 +52,17 @@ font-family: 'Headland One', serif;}
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 } */
+#home  {
+	text-align: center;
+	padding: 10px;
+}
 
+
+
+p {
+line-height: 1.5rem;
+text-indent: 20px;
+}
 
 .education {
 
