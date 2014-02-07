@@ -1,10 +1,12 @@
 /* Your Website Styles */
 html {
 
-font-family: 'Headland One', serif;}
+font-family: 'Headland One', serif;
+
+}
 
 body {
-	background: url(../img/paper.png);
+	background-image: url(../img/paper.png);
 }
 
 /* mene bar */
@@ -68,6 +70,21 @@ text-indent: 20px;
 }
 
 .education {
-
 	white-space: pre;
-}
+ }
+
+
+.school {
+	text-indent: 50px;
+	font-style: italic;
+} 
+
+
+
+
+
+
+
+
+
+
