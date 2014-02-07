@@ -5,7 +5,7 @@ font-family: 'Headland One', serif;}
 
 
 /* mene bar */
-#menu {
+			#menu {
 				font-family: Arial, sans-serif;
 				font-weight: bold;
 				text-transform: uppercase;
@@ -25,7 +25,7 @@ font-family: 'Headland One', serif;}
 			#menu li a {
 				text-decoration: none;
 				display: block;
-				padding: 0 20px;
+				padding: 0 50px;
 				line-height: 40px;
 				color: #666;
 			}
